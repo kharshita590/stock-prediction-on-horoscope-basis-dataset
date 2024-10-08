@@ -1,0 +1,769 @@
+Sign,DOB,Name_of_person,place_of_birth,time_of_birth
+aries,16-09-1942,Aarav,Kadapa ,15:26
+leo,27-12-1991,Geethanvitha,Kochi,3:30
+sagittarius,08-12-1949,Anjuman,Rajkot,2:15
+taurus,24-05-1999,Geet,Burhanpur ,18:12
+virgo,13-01-1948,Priti,Purnia ,21:47
+capricorn,18-05-1994,Kushal,Patan ,10:57
+gemini,16-09-1958,Anshit,Patiala,0:36
+libra,26-08-1994,Vikas,Eluru ,19:21
+aquarius,11-10-1993,Khushboo,Yercaud,1:34
+cancer,26-07-1968,Akshaya,Barddhaman ,4:0
+scorpio,04-02-1984,Aadharsh,New Delhi ,20:13
+pisces,17-05-1962,Ikshita,Chittoor ,17:14
+aries,23-06-1968,Chaitanya,Navi Mumbai ,4:54
+leo,20-01-1985,Ajeet,Kishanganj ,12:15
+sagittarius,10-09-1961,Rajesh,Madhyamgram ,3:59
+taurus,20-02-1960,Jagdish,Kakinada,2:4
+virgo,02-02-1985,Advika,Lucknow ,1:8
+capricorn,22-06-1943,Jawad,Jodhpur,19:40
+gemini,24-12-1994,Ambuj,Satna ,14:9
+libra,14-06-1951,Dharv,Guntur ,2:14
+aquarius,03-01-1967,Anunay,Nizamabad,23:23
+cancer,27-06-1993,Ahilan,Kannur,2:51
+scorpio,19-11-1981,Ashok,Aurangabad,15:55
+pisces,24-03-1988,Falak,Ranchi ,22:17
+aries,10-07-1956,Ashok,Godhra ,3:59
+leo,09-10-1943,Arasi,Matheran,13:57
+sagittarius,10-08-1953,Chandrashekhar,Unakoti,4:32
+taurus,07-01-1957,Maanvi,Barasat ,21:39
+virgo,30-08-1972,Aadhira,Solapur ,21:40
+capricorn,07-09-1947,Arjun,Indore,8:25
+gemini,29-07-1991,Armaan,Kanha,16:10
+libra,09-09-1987,Ari,Jamalpur ,11:46
+aquarius,30-01-1968,Kapil,Karawal Nagar ,6:55
+cancer,15-11-1944,Renu,Murshidabad,14:45
+scorpio,15-09-1946,Alok,Maunath Bhanjan ,4:32
+pisces,30-12-1979,Smitha,Raniganj ,0:0
+aries,11-02-1989,Farid,Amravati,4:41
+leo,02-05-1985,Ahmad,Udaipur ,5:5
+sagittarius,21-08-1955,Gokul,Betul ,10:16
+taurus,29-09-1947,Asad,Jabalpur,18:39
+virgo,09-09-1997,Gajaanan,Madanapalle ,16:10
+capricorn,10-07-1991,Asha,Chittorgarh,11:16
+gemini,29-09-1976,Himmat,Chandrapur ,12:50
+libra,01-11-1987,Diya,Pithampur ,21:29
+aquarius,07-03-1949,Arpit,Kalyani ,11:33
+cancer,29-12-1968,Keshav,Raurkela Industrial Township ,18:3
+scorpio,20-11-1946,Karampreet,Bhubaneshwar,1:49
+pisces,21-11-1989,Alina,Nabadwip ,11:3
+aries,10-05-1953,Ati,Nandyal,16:35
+leo,04-08-1974,Gajapati,Nagercoil ,11:0
+sagittarius,05-03-1986,Kundan,Nagpur ,18:27
+taurus,19-02-1986,Gurdayal,Chopta,20:18
+virgo,07-05-1965,Sonia,Ambarnath ,12:31
+capricorn,18-06-1979,Dhanraj,Hooghly,1:44
+gemini,15-11-1946,Hariom,Jaipur ,22:23
+libra,06-02-1961,Sashi,Chennai ,2:24
+aquarius,10-11-1979,Bhrithi,Varanasi,15:25
+cancer,14-04-1950,Asharudeen,Firozpur ,11:9
+scorpio,12-05-1943,Arnav,Bhusawal ,6:20
+pisces,26-02-1970,Furqan,Vasai Virar City ,7:56
+aries,04-03-1948,Adhiraj,Kanchrapara ,23:6
+leo,17-11-1982,Febin,Fyzabad,9:47
+sagittarius,28-04-1965,Ashit,Siliguri,23:40
+taurus,01-08-1977,Garvit,Jorapokhar,18:59
+virgo,10-10-1957,Amitava,Kedarnath,21:12
+capricorn,21-01-1942,Jhumpa,Alwar ,2:26
+gemini,15-06-1987,Joshil,Kangra,12:32
+libra,12-09-1990,Sameer,Gokarna,2:42
+aquarius,01-10-1997,Dev,Budaun ,13:3
+cancer,29-10-1943,Satish,Vizianagaram ,13:57
+scorpio,11-09-1998,Hamood,Hindaun ,12:58
+pisces,14-02-1957,Hemanshu,Gwalior,1:1
+aries,11-07-1947,Chaman,Mangalore,7:55
+leo,21-02-1976,Honey,Pali,18:29
+sagittarius,18-06-1994,Jasim,Haora,17:12
+taurus,13-11-1975,Avanish,Amaravati,2:19
+virgo,04-05-1989,Dhrsita,Fatehpur ,5:34
+capricorn,15-11-1965,Dayita,Abohar ,11:19
+gemini,24-08-1985,Usha,Panihati ,4:18
+libra,02-10-1941,Kiyana,Bidhan Nagar ,13:56
+aquarius,15-01-1974,Ali,Siliguri ,4:2
+cancer,22-10-1988,Amarnath,Navsari,20:35
+scorpio,09-04-1967,Lavanya,Beawar ,5:46
+pisces,10-04-1983,Arshad,Kolhapur,7:9
+aries,22-01-1963,Tejas,Gangapur City ,7:6
+leo,29-08-1947,Chandan,Maheshtala ,16:31
+sagittarius,26-04-1952,Japan,Achalpur ,23:52
+taurus,01-02-1985,Gayanthika,Bahraich ,19:56
+virgo,05-10-1946,Abdul,Bhopal,18:52
+capricorn,22-11-1998,Amberlie,Lucknow,19:58
+gemini,20-08-1969,Jaganath,Rajahmundry,2:47
+libra,23-07-1956,Ijay,Ratlam,22:45
+aquarius,14-10-1961,Bhanu,Dallo Pura ,14:6
+cancer,16-09-1962,Arundhati,Calicut,10:14
+scorpio,26-01-1998,Chaaya,Barddhaman,8:22
+pisces,07-02-1977,Asmita,Aizawl  ,5:24
+aries,19-08-1965,Anchal,Raurkela,19:36
+leo,26-01-1999,Rani,Alappuzha ,7:40
+sagittarius,22-07-1966,Arjun,Nanded Waghala ,4:35
+taurus,07-01-1956,Hunny,Jaipur,3:43
+virgo,07-08-1982,Diganth,Sundarbans,9:36
+capricorn,12-01-1982,Kaeya,Chandannagar ,17:53
+gemini,15-07-1975,Hasina,Bhimbetka,13:7
+libra,19-01-1947,Abhitha,Pathankot ,2:6
+aquarius,29-12-1975,Lucky,Akbarpur ,5:25
+cancer,01-07-1942,Alagi,Coimbatore,1:26
+scorpio,27-09-1944,Diksha,Agra,18:3
+pisces,20-12-1946,Jagadeesh,Machilipatnam,20:3
+aries,01-03-1963,Gundeep,Biharsharif ,13:39
+leo,07-09-1962,Inderbir,Bhatpara ,7:41
+sagittarius,15-12-1962,Lirthika,Greater Noida,20:17
+taurus,21-08-1967,Ankur,Ambala Sadar ,2:6
+virgo,21-06-1979,Ekiya,Muzaffarnagar ,22:59
+capricorn,26-10-1975,Kawaljit,Jetpur Navagadh ,2:1
+gemini,04-10-1996,Damyanti,Havelock Island,19:11
+libra,23-11-1957,Yogita,Salem ,3:45
+aquarius,07-10-1969,Kundalik,Hubli,20:18
+cancer,14-09-1948,Jasvinder,Ganganagar ,19:59
+scorpio,17-06-1993,Dipika,Khammam ,20:42
+pisces,31-03-1950,Govind,Sasaram ,7:23
+aries,03-06-1949,Jasleen,Bengaluru,8:11
+leo,03-06-2001,Amisha,Karur,15:0
+sagittarius,09-12-1973,Inderpreet,Haripur,1:15
+taurus,12-04-1983,Bhakti,Haldia ,9:19
+virgo,14-01-1966,Ilyas,Uttarpara Kotrung ,13:42
+capricorn,02-03-2001,Hershit,Nainital,4:3
+gemini,20-06-1942,Krishna,Baharampur ,14:12
+libra,07-08-1997,Anshul,Aligarh,12:39
+aquarius,07-12-1988,Adhyan,Bagalkot ,15:42
+cancer,07-05-1959,Dhruvan,Chilakaluripet ,10:17
+scorpio,01-03-1953,Aravind,Chitrakoot,15:13
+pisces,06-08-1989,Kanisha,Bengaluru,14:46
+aries,01-06-1981,Kamran,Bengaluru,15:8
+leo,03-12-1971,Harshit,Jalgaon ,19:4
+sagittarius,12-06-1988,Vimla,Tuticorin,9:26
+taurus,19-03-1972,Imaad,Farrukhabad-cum-Fatehgarh ,2:16
+virgo,25-04-1958,Jaipreet,Bhiwadi ,23:47
+capricorn,04-07-1944,Elisaiyan,Parbhani ,8:0
+gemini,27-02-1982,Shradha,Khajuraho,3:58
+libra,31-08-1950,Sridhar,Khanapur,14:31
+aquarius,14-06-1959,Liyana,Gulbarga,20:57
+cancer,13-11-1981,Avni,Greater Noida ,19:22
+scorpio,03-04-1949,Trisha,Krishnapuram,20:33
+pisces,16-03-1961,Anshika,Mughalsarai ,4:3
+aries,08-03-1954,Hansh,Adoni ,15:36
+leo,21-01-1976,Jignasa,Karimnagar,16:10
+sagittarius,08-08-1993,Devina,Murudeshwar,0:42
+taurus,21-02-1988,Shweta,Junagadh ,13:38
+virgo,10-05-1944,Karmjit,Vijayawada,23:1
+capricorn,26-12-1992,Din,Rajarhat Gopalpur ,11:19
+gemini,18-06-1971,Ashal,Thane ,15:38
+libra,04-10-1943,Bhoopendra,Visakhapatnam,2:50
+aquarius,30-03-1977,Jaithra,Dhanbad ,13:23
+cancer,08-02-1972,Sagar,Ludhiana ,5:44
+scorpio,23-01-1960,Geeta,Wayanad,16:42
+pisces,27-12-1957,Lata,Thiruvananthapuram,6:24
+aries,20-01-1952,Kunaal,Katihar ,5:15
+leo,25-02-1995,Devarya,Varanasi,23:6
+sagittarius,18-04-1997,Aadiv,Bikaner ,18:31
+taurus,03-05-1967,Livtar,Bhiwandi,8:13
+virgo,20-08-1974,Ayaan,Agra,2:45
+capricorn,09-09-1984,Indali,Amarkantak,15:51
+gemini,19-02-1973,Anish,Mysore,13:54
+libra,12-06-1957,Kairav,Adilabad,20:41
+aquarius,04-01-1996,Madhuri,Spiti Valley,20:52
+cancer,02-08-1981,Gunamalar,Hospet,22:48
+scorpio,08-02-1994,Karishma,Latur,11:35
+pisces,10-02-1968,Atishay,Ahmadabad ,6:29
+aries,09-06-1973,Simran,South Dum Dum ,2:27
+leo,20-08-1988,Hetvi,Kulti ,13:45
+sagittarius,27-11-1946,Sunaina,Bulandshahr ,19:55
+taurus,20-09-1979,Abhik,Gangawati ,0:46
+virgo,03-03-1988,Aasim,Kolkata,10:40
+capricorn,28-05-1979,Indranil,Aurangabad,8:8
+gemini,22-12-1941,Ehtisham,Chirala,0:17
+libra,20-07-1994,Amrin,Banswara ,19:56
+aquarius,06-03-1994,Divyansh,Ludhiana,22:37
+cancer,03-09-1961,Ankit,Palwal ,13:18
+scorpio,18-11-1990,Abinash,Rishikesh,7:23
+pisces,04-10-1987,Davneet,Cherrapunji,15:28
+aries,20-08-1999,Ekanjeet,Muktsar ,3:45
+leo,14-01-1944,Khanak,English Bazar ,6:59
+sagittarius,10-02-1975,Anmol,Tadpatri ,20:52
+taurus,06-11-1980,Kanika,Amritsar ,3:48
+virgo,04-07-1954,Aagney,Patiala ,14:42
+capricorn,25-08-1943,Hashir,Bikaner,16:36
+gemini,17-03-1984,Hammaad,Chamba,10:6
+libra,03-12-1948,Jaimini,Bhuj,21:53
+aquarius,19-09-1972,Chetan,Muzaffarnagar,21:28
+cancer,06-11-2000,Aniya,Bijapur,16:22
+scorpio,10-01-1951,Fatma,Silvassa,19:51
+pisces,03-03-2001,Haleema,Bhavnagar,3:3
+aries,04-09-1993,Krish,Hajipur ,11:33
+leo,08-06-1958,Haarathi,Fatehpur Sikri,15:1
+sagittarius,12-03-1977,Aadrik,Hyderabad,19:13
+taurus,02-05-2000,Kamini,Kota,18:0
+virgo,01-08-1989,Kalyani,Munnar,23:44
+capricorn,04-01-1943,Kalaiarasi,Nashik,15:18
+gemini,27-05-1971,Agampreet,Agartala ,1:43
+libra,06-01-1956,Aswin,Saugor,11:43
+aquarius,10-03-1964,Abhinandan,Vijayawada ,7:0
+cancer,16-08-2000,Arvind,Yamunanagar ,19:52
+scorpio,10-12-1978,Karishma,Auroville,19:29
+pisces,24-10-1981,Niharika,Thanjavur,0:13
+aries,10-10-1983,Debolina,Dalhousie,3:15
+leo,17-02-1963,Chavi,Bagaha ,16:16
+sagittarius,28-01-1996,Haider,Khardaha ,14:28
+taurus,07-04-1954,Adity,Deoghar ,23:33
+virgo,08-02-1987,Bilal,Gangtok,2:44
+capricorn,09-09-1985,Avi,Puducherry ,6:16
+gemini,17-06-1948,Lohith,Bodh Gaya,15:28
+libra,21-02-1962,Adil,Cuddalore ,14:29
+aquarius,20-01-1942,Kori,Jamshedpur ,10:57
+cancer,25-04-1952,Reshma,Hindupur,8:53
+scorpio,14-01-1957,Shiva,Shivpuri ,10:20
+pisces,24-03-1973,Amruta,Chikmagalur ,11:46
+aries,09-02-1944,Balbir,Proddatur,23:29
+leo,17-06-1970,Bhanumati,Palakkad ,4:21
+sagittarius,24-04-1990,Juhi,Rewari ,9:54
+taurus,06-11-1962,Jigna,Mathura ,4:14
+virgo,09-01-1973,Abhoy,Thanesar ,23:33
+capricorn,29-12-1988,Indroneel,Nagpur,0:38
+gemini,24-12-1948,Ishivara,Kolhapur,13:13
+libra,12-08-1996,Ekani,Singrauli ,21:34
+aquarius,29-03-1968,Kishor,Ranchi,13:46
+cancer,27-04-1987,Sarika,Bulandshahr,17:37
+scorpio,05-10-1963,Abhisumat,Basti ,6:27
+pisces,06-06-1995,Kaushambi,Indore,20:3
+aries,29-03-1953,Ganak,Ahmedabad,15:22
+leo,29-04-1997,Bhadrak,Tiruvottiyur ,19:14
+sagittarius,25-01-1982,Divakar,Kendujhar,23:9
+taurus,20-02-1999,Ekachakra,Pathankot,23:19
+virgo,31-08-1990,Devendra,Srikakulam ,4:59
+capricorn,17-03-1976,Kushagra,Auli,12:12
+gemini,01-07-1954,Debjani,Neil Island,17:25
+libra,09-04-1960,Prakash,Valparai,12:48
+aquarius,08-12-1946,Gajrup,Panchkula,9:22
+cancer,31-05-1983,Darshil,Kagaznagar,12:30
+scorpio,28-12-1987,Eklavya,Dum Dum ,18:23
+pisces,28-01-1985,Anjali,Kurichi ,3:23
+aries,29-04-1992,Anushka,Nagda ,0:8
+leo,11-02-1954,Hemant,Tiruvannamalai ,20:34
+sagittarius,14-04-1961,Asma,Sikar,22:18
+taurus,21-04-1957,Jiyan,Lonavala,18:47
+virgo,08-12-1974,Prerna,Botad ,10:35
+capricorn,23-11-1966,Humaira,Bhuj ,12:56
+gemini,08-10-1990,Amish,Nasik,16:53
+libra,02-06-1942,Janya,Dindigul,14:15
+aquarius,03-10-1980,Vishal,Rameswaram,3:33
+cancer,17-03-1999,Atul,Bongaon ,12:0
+scorpio,05-07-1995,Sushma,Shikohabad ,10:26
+pisces,21-01-1981,Harshini,Dhule ,12:27
+aries,12-10-1994,Kamada,Moradabad,4:59
+leo,15-04-1990,Avantika,Narasaraopet ,1:23
+sagittarius,26-10-1991,Livdeep,Shillong ,11:31
+taurus,08-12-1998,Dev,Arrah ,1:40
+virgo,13-02-1943,Pallavi,Bundi ,22:4
+capricorn,05-07-1945,Kalyani,Guntakal ,0:38
+gemini,17-03-1969,Adya,Port Blair,10:35
+libra,31-08-1992,Arish,Pune,23:29
+aquarius,26-11-1956,Arni,Barnala ,10:0
+cancer,25-02-1964,Gunjan,Jind ,16:17
+scorpio,09-03-1948,Girilal,Kaithal ,19:58
+pisces,17-08-1942,Idhithri,Abohar,1:15
+aries,13-11-1960,Chahat,Shimla,16:26
+leo,26-04-1995,Janhvi,Rourkela,18:12
+sagittarius,09-04-1945,Darshit,Bhadrak ,8:16
+taurus,18-10-1963,Pranav,Lalitpur ,10:17
+virgo,28-06-1952,Veena,Hastsal ,16:28
+capricorn,05-09-1975,Geethu,Shimla,19:7
+gemini,17-09-1980,Sahana,Gadag-Betigeri ,14:6
+libra,02-07-1991,Deepali,Hemis,17:9
+aquarius,24-10-1960,Monica,Raipur ,21:4
+cancer,05-04-1947,Gunav,Meerut ,6:47
+scorpio,02-02-2000,Hira,Panipat,12:16
+pisces,21-08-1990,Richa,Surendranagar Dudhrej ,23:18
+aries,21-04-1961,Aarushi,Loni ,6:30
+leo,15-08-1961,Aakriti,Bansberia ,21:42
+sagittarius,24-03-1974,Aakarsh,Tirupati,20:58
+taurus,02-08-1951,Akash,Ambur ,3:24
+virgo,22-12-1976,Naresh,Saharsa ,13:19
+capricorn,25-02-1955,Geeta,Jammu,18:19
+gemini,11-07-1948,Amitesh,Anantapur,20:38
+libra,16-11-1951,Joyeeta,Surat ,16:20
+aquarius,21-06-1942,Kavish,Krishnanagar,1:3
+cancer,14-02-1952,Kavan,Barrackpur ,21:19
+scorpio,23-08-1947,Alani,Ratlam ,11:41
+pisces,08-04-1983,Akash,McLeod Ganj,23:5
+aries,17-08-1953,Baruni,Sikar ,22:18
+leo,28-05-1955,Karamjot,Namchi,7:45
+sagittarius,10-11-1999,Manoj,Titagarh ,11:51
+taurus,18-03-1997,Aum,Sirsa ,13:57
+virgo,01-02-1980,Aariz,Ujjain,7:47
+capricorn,08-04-1952,Asvin,Haldia,15:13
+gemini,14-07-1955,Gayathri,Diskit,13:49
+libra,15-05-1979,Ishika,Vadodara ,7:7
+aquarius,19-09-1967,Nirmala,Begusarai ,19:44
+cancer,21-10-1983,Apratim,Darjeeling,5:30
+scorpio,04-01-1957,Kartikeya,Mahabalipuram,8:2
+pisces,12-03-1956,Jiyu,Alappuzha,20:25
+aries,04-01-1996,Abhilasha,Bhiwandi ,22:18
+leo,20-08-1980,Bhawna,Bastar,5:6
+sagittarius,25-02-2000,Japna,Kohima,3:36
+taurus,08-05-1972,Fariya,Erode ,19:13
+virgo,17-05-1997,Grahish,Visakhapatnam,21:43
+capricorn,19-07-1956,Aanchal,Giridih ,16:18
+gemini,26-05-1972,Harshita,Bolpur,2:38
+libra,18-02-1949,Kajal,Kurnool,20:30
+aquarius,21-07-1972,Gaushik,Goa,9:29
+cancer,24-12-1972,Anurag,Faridabad ,6:30
+scorpio,21-10-1958,Aniket,Samlaipadar,20:38
+pisces,24-10-1948,Nikhil,Bandhavgarh,8:22
+aries,10-05-1992,Dushyant,Haora ,4:43
+leo,21-07-1971,Aparna,Ranibennur ,3:16
+sagittarius,26-05-1948,Janvi,Tambaram ,14:34
+taurus,07-02-1998,Astitva,Puri,18:19
+virgo,08-11-1950,Anshul,Baramula,3:12
+capricorn,10-07-1978,Amar,Akola,6:33
+gemini,15-09-1946,Anavi,Sagar ,20:53
+libra,13-04-1999,Hamsavahini,Tharati Etawah,4:11
+aquarius,19-10-1976,Guneet,Kishtwar,1:24
+cancer,01-01-1995,Azmi,Chandausi ,4:10
+scorpio,08-09-1970,Aamra,Gondal ,22:7
+pisces,27-08-1970,Aryaman,Sivasagar,14:23
+aries,14-11-1978,Garv,Mysore,13:26
+leo,10-05-1964,Japjot,Darbhanga ,13:8
+sagittarius,19-05-1956,Cherry,Joshimath,0:15
+taurus,12-05-1988,Bidisha,Pilibhit ,16:22
+virgo,05-06-1983,Bhavini,Shirdi,21:58
+capricorn,05-11-1995,Hrishab,Hugli-Chinsurah ,15:56
+gemini,25-04-1978,Rachana,Parbhani,20:55
+libra,26-04-1966,Zoya,Dinapur Nizamat ,9:50
+aquarius,11-12-1951,Kuldeep,Mount Abu,11:53
+cancer,16-07-1961,Jasbir,Pilibhit,11:16
+scorpio,27-07-1974,Aadita,Ambikapur ,9:9
+pisces,28-06-1965,Kaustav,Anand ,3:32
+aries,19-01-1948,Achintya,Bandipur,21:21
+leo,08-02-1976,Abhijeet,Talcher,2:27
+sagittarius,28-01-1982,Lotika,Sambhal ,17:43
+taurus,13-09-1978,Hanif,Durg ,3:57
+virgo,15-12-1999,Girish,Chikka Mandya,15:45
+capricorn,26-01-1995,Hema,Latur ,8:52
+gemini,10-03-1944,Garg,Hanumangarh ,4:37
+libra,21-09-1979,Chasmum,Satara ,22:8
+aquarius,23-07-1963,Devjeet,Sawai Madhopur ,17:0
+cancer,11-02-1952,Arya,Jaisalmer,7:46
+scorpio,09-05-1981,Kamya,Jammu ,17:32
+pisces,25-01-1989,Daksha,Porbandar ,11:46
+aries,11-02-1948,Aadhavi,Bilaspur ,17:59
+leo,14-08-1979,Yogesh,Kullu,21:25
+sagittarius,02-02-1952,Farida,Tarkarli,11:7
+taurus,01-10-1952,Kirti,Delhi,19:57
+virgo,02-02-1994,Amit,Gopalpur,18:22
+capricorn,23-10-1972,Vaibhav,Rishra ,6:17
+gemini,23-10-1958,Aayod,Baraut ,16:25
+libra,20-07-1978,Abhishek,Somnath,13:7
+aquarius,30-10-1995,Charita,Ravangla,0:23
+cancer,11-09-1971,Bharat,Gandhinagar ,22:30
+scorpio,18-07-1991,Akanksha,Seoni ,10:23
+pisces,18-05-1949,Kirandeep,Alipurduar,4:1
+aries,02-11-1993,Dipta,Buxar ,14:58
+leo,19-08-1981,Lata,Kasganj ,23:15
+sagittarius,07-04-1991,Jamir,Tirunelveli,1:48
+taurus,09-02-1992,Deependra,Vizianagaram,21:20
+virgo,20-04-1980,Abeer,Burari ,7:2
+capricorn,19-06-1986,Divyaraj,Damoh ,4:34
+gemini,28-11-1997,Gita,Kadapa,12:17
+libra,28-06-1954,Divyam,Khanna ,11:49
+aquarius,25-01-1999,Damini,Azamgarh ,6:57
+cancer,18-03-1961,Bhavika,Ahmadnagar ,23:52
+scorpio,20-04-1992,Fatima,Thanjavur,5:21
+pisces,09-03-1974,Anshuman,Bhiwani,11:50
+aries,02-10-1987,Ibrahim,Durgapur ,15:0
+leo,05-04-1986,Anuraktika,Rae Bareli ,18:7
+sagittarius,18-02-1981,Aayush,Orchha,12:52
+taurus,17-12-1962,Anjaneya,Ayodhya,6:12
+virgo,20-05-1985,Aarya,Bidar ,7:35
+capricorn,05-03-1942,Ilakkiyan,Bhind ,4:12
+gemini,19-06-1964,Ekta,Ranikhet,20:22
+libra,02-05-1981,Madhusudan,Vrindavan,3:57
+aquarius,19-03-1997,Dhaval,Tonk,23:21
+cancer,08-06-1999,Anubhuti,Narkanda,18:45
+scorpio,28-10-1986,Prasad,Bhopal ,7:13
+pisces,27-08-1983,Aswad,Bir Billing,22:41
+aries,02-07-1976,Tina,Mahabubnagar,15:11
+leo,29-04-1952,Kaiyen,Varanasi ,0:25
+sagittarius,16-01-1995,Elili,Sangli Miraj Kupwad ,4:15
+taurus,23-09-1952,Janaki,Shamli ,5:26
+virgo,01-06-1979,Chathresh,Rewa ,5:18
+capricorn,20-10-1956,Abdur,Chhattarpur ,20:39
+gemini,15-01-1943,Abrar,Tenali ,17:17
+libra,01-06-1994,Mohan,Shoja,16:52
+aquarius,18-02-1946,Ahinsa,Vadodara,8:34
+cancer,26-05-1991,Aadidev,Amravati ,10:38
+scorpio,21-01-1949,Jahanvi,Coorg,20:6
+pisces,05-04-2001,Bibhu,Hampi,7:21
+aries,01-02-1943,Mridula,Kumbakonam,15:12
+leo,07-02-1960,Chander,Chidambaram,2:26
+sagittarius,19-08-1991,Fatahun,Port Blair ,18:29
+taurus,10-06-2001,Arpita,Chitradurga ,6:11
+virgo,28-03-1950,Mohini,Khurja ,10:37
+capricorn,11-06-1959,Kavyansh,Mussoorie,0:54
+gemini,10-07-1992,Ilamaran,Vizianagaram,4:11
+libra,11-03-1943,Shalini,Gandhidham ,16:34
+aquarius,26-10-1949,Anubhav,Puri ,10:48
+cancer,16-06-1990,Vijaya,Gonda ,21:19
+scorpio,25-03-1947,Aastha,Puttaparthi,22:9
+pisces,29-03-1987,Faizan,Hoshangabad ,2:34
+aries,11-12-1946,Aatreya,Habra ,16:9
+leo,16-07-1944,Humaid,Mandya ,1:44
+sagittarius,19-11-1976,Inderpal,Machilipatnam ,18:6
+taurus,24-05-2001,Eiravati,Rohtak,13:44
+virgo,14-06-2000,Aritra,Brahmapur,14:2
+capricorn,21-06-1974,Kavisha,Asansol ,23:56
+gemini,03-01-1979,Ekta,Madurai,18:5
+libra,13-01-1950,Avnindra,Kirari Suleman Nagar ,21:48
+aquarius,29-04-1978,Jigruksha,Gandhinagar,6:27
+cancer,29-08-1959,Ekanpreet,Bangalore,3:15
+scorpio,09-03-1947,Inabat,Adityapur ,6:42
+pisces,27-08-1956,Konkana,Bilaspur,23:30
+aries,16-09-1977,Harsha,Kozhikode ,14:23
+leo,09-01-1973,Hajira,Belgaum ,13:5
+sagittarius,22-06-1942,Atif,Aligarh ,14:38
+taurus,15-08-1996,Devadarshini,Shillong ,2:25
+virgo,25-08-1983,Kavya,Aligarh,3:23
+capricorn,14-03-1988,Deepak,Gangtok,12:27
+gemini,19-06-1947,Aashvi,Baripada Town ,6:50
+libra,09-11-1959,Jigisu,Gurgaon ,10:8
+aquarius,31-10-1958,Hemavarun,Kolkata ,20:5
+cancer,19-05-1968,Iravaj,Chapra ,23:18
+scorpio,11-03-1961,Ilavalagi,Junagadh,21:5
+pisces,17-04-1955,Eashan,Bhopal ,22:28
+aries,25-11-1965,Apurva,Jodhpur,1:29
+leo,08-08-1964,Ankita,Ongole,16:8
+sagittarius,30-08-1969,Sonal,Alappuzha,10:41
+taurus,18-01-1986,Debashish,Gulbarga ,0:40
+virgo,08-04-1958,Gyanvi,Panchkula ,6:38
+capricorn,22-07-1944,Meena,Uluberia ,15:16
+gemini,28-07-1967,Aanya,Motihari ,20:32
+libra,04-07-1972,Jaskeerat,Meerut,1:51
+aquarius,09-04-1954,Hanshitha,Agra ,0:12
+cancer,06-06-1953,Kishan,Puruliya ,1:39
+scorpio,27-03-1956,Kaivalya,Brahmapur Town ,17:20
+pisces,29-11-1994,Lopa,Ranchi,21:30
+aries,14-10-1952,Gaurika,Belgaum,4:43
+leo,15-01-1952,Abhilash,Barot,19:41
+sagittarius,14-11-1943,Kanta,Bharuch ,12:13
+taurus,04-11-1952,Ekantika,Nagaur ,5:49
+virgo,25-09-1946,Jitendra,Hazaribag ,17:6
+capricorn,12-04-1972,Goldy,Ghaziabad,19:36
+gemini,09-02-1975,Hridyanshu,Kaziranga,8:53
+libra,13-07-1942,Farhan,Mirzapur-cum-Vindhyachal ,0:43
+aquarius,24-09-1955,Grover,Aizawl ,4:14
+cancer,17-10-2000,Afzan,Bhadravati ,8:25
+scorpio,23-07-1946,Ayush,Keonjhar,4:8
+pisces,07-04-1973,Anil,Mandu,12:26
+aries,29-05-1956,Digraj,Amreli ,22:29
+leo,14-05-1986,Aarna,Kamarhati ,12:19
+sagittarius,06-09-1998,Amrutha,Etawah ,16:58
+taurus,31-10-1986,Anadi,Diu,18:57
+virgo,20-07-1957,Jagrati,Gwalior,0:58
+capricorn,24-06-1954,Aaryan,Ambattur ,15:40
+gemini,31-05-1997,Kiran,Dibrugarh ,13:21
+libra,03-01-1958,Gnanavalli,Hajo,14:18
+aquarius,03-02-1964,Abhishek,DehraDun,2:8
+cancer,27-11-1991,Isha,Karaikkudi ,13:6
+scorpio,04-11-1963,Ambar,Delhi Cantonment ,11:21
+pisces,01-03-1990,Kshamya,Bareilly,6:23
+aries,18-09-1969,Bhavi,Mandi,17:57
+leo,27-01-1977,Babitarani,North Barrackpur ,11:14
+sagittarius,20-09-1968,Darvesh,Sarnath,7:51
+taurus,25-07-1989,Amarpreet,Pahalgam,17:32
+virgo,16-05-1981,Himaksh,Muzaffarpur ,18:53
+capricorn,03-08-1954,Bhavya,Guwahati,15:23
+gemini,26-01-1956,Lekhraj,Bellary,6:53
+libra,14-05-1987,Jaiden,Delhi,17:6
+aquarius,22-03-1943,Anoop,Vellore ,16:40
+cancer,25-07-1975,Sharad,Miryalaguda ,0:59
+scorpio,19-05-1981,Ashutosh,Pimpri Chinchwad ,18:11
+pisces,30-08-1965,Junaid,Shimoga,6:23
+aries,21-08-2000,Divit,Chas ,0:52
+leo,26-04-1992,Arunima,Jammu,19:44
+sagittarius,19-11-1966,Chandana,Faridabad,18:6
+taurus,06-07-1967,Jauhari,Kurnool ,19:55
+virgo,03-02-2000,Chandni,Jhansi,20:52
+capricorn,25-05-1946,Jhalak,Bally City,3:10
+gemini,04-10-1953,Samir,Amritsar,3:8
+libra,07-09-1942,Akshaya,Hindupur ,12:37
+aquarius,31-01-1959,Bhavesh,Kakinada ,7:42
+cancer,09-08-1942,Harshada,Alibaug,9:53
+scorpio,16-10-1977,Aahan,Bokaro Steel City ,19:11
+pisces,05-06-1995,Durba,Dibrugarh,16:46
+aries,14-08-1991,GopalDas,Khammam,0:58
+leo,14-10-1974,Gurjot,Guwahati ,16:17
+sagittarius,20-10-1999,Kanan,Purulia,13:49
+taurus,12-03-1988,Ekanta,Jagdalpur ,4:3
+virgo,28-10-1998,Hussain,Deoria ,17:56
+capricorn,17-06-2001,Karthik,Rudrapur ,5:17
+gemini,24-05-1963,Kishen,Jamnagar ,17:14
+libra,23-01-1992,Kenisha,Puducherry,19:43
+aquarius,11-02-1992,Kanayali,Cuttack,10:43
+cancer,27-07-1993,Bodhi,Hinganghat ,8:39
+scorpio,08-12-1958,Jeet,Jamshedpur,19:42
+pisces,04-09-2000,Kushan,Brajrajnagar,9:17
+aries,27-06-1948,Khaleel,Jorhat,17:36
+leo,14-05-1967,Advaith,New Delhi,19:12
+sagittarius,13-05-1945,Hiral,Badami,8:5
+taurus,28-11-1975,Jivika,Nanded,20:39
+virgo,15-02-1986,Dulal,Puri,0:34
+capricorn,19-03-1998,Vijay,Baran ,11:31
+gemini,24-01-1952,Faraz,Faizabad ,12:26
+libra,07-10-1949,Hitesh,Chanda,17:0
+aquarius,28-12-1961,Chaitanya,Puducherry,1:58
+cancer,28-05-1994,Adhrit,Yavatmal ,17:48
+scorpio,09-07-2001,Abhaya,Nandyal ,7:50
+pisces,06-07-1957,Aditi,Panipat ,22:57
+aries,09-05-1966,Aarav,Chennai,3:36
+leo,11-11-1946,Devi,Ambala ,9:42
+sagittarius,07-08-1969,Libni,Mango ,13:21
+taurus,04-05-2001,Sanjay,Jabalpur,1:27
+virgo,31-01-1977,Chameli,Mirzapur,20:49
+capricorn,04-03-1946,Anita,Thoothukkudi ,0:3
+gemini,09-09-1997,Gunasundari,Cuttack,8:37
+libra,06-11-1975,Arnab,Leh,20:22
+aquarius,21-10-1984,Ayushman,Mahesana ,0:1
+cancer,23-08-1966,Ijaya,Bijapur,19:58
+scorpio,11-09-1990,Chandranshu,Nellore,6:13
+pisces,09-10-1991,Tanuja,Secunderabad ,21:53
+aries,06-08-1972,Anil,Jalpaiguri,7:21
+leo,07-01-1944,Abhaysinha,Baleshwar Town ,20:8
+sagittarius,10-03-1979,Aruna,Sirsa,18:22
+taurus,13-03-1980,Jeevan,Nagaon ,9:12
+virgo,10-05-1993,Hemani,Kochi,21:59
+capricorn,25-07-1943,Avani,Sawai Madhopur,13:37
+gemini,02-03-1952,Jalender,Nadiad ,19:32
+libra,03-09-1965,Sandhya,Navsari ,17:7
+aquarius,23-05-1959,Krithika,Morena ,14:36
+cancer,24-01-1946,Laiba,Tiruchchirappalli,17:31
+scorpio,05-12-1996,Atul,Champdani ,22:18
+pisces,01-09-1942,Chitra,Deoli ,4:10
+aries,11-08-1970,Bhaskor,Kovalam,12:4
+leo,06-02-1948,Arti,Guntur,9:30
+sagittarius,20-01-1996,Harpal,Bhilai,9:25
+taurus,18-09-1962,Aria,Naihati ,21:54
+virgo,28-09-1970,Lubna,Veraval ,12:44
+capricorn,30-12-1946,Chayan,Nagapattinam ,10:17
+gemini,09-02-1992,Bhawana,Pali ,10:57
+libra,22-09-1998,Arnav,Balasore,2:35
+aquarius,20-03-1999,Anjoo,Guntur,0:4
+cancer,10-11-1982,Kalindee,Churu ,6:17
+scorpio,23-01-2000,Jigar,Udaipur,21:46
+pisces,13-11-1964,Bhama,Udhampur,12:46
+aries,15-10-1960,Bhavana,Kolar,12:2
+leo,19-07-1989,Guru,Bikaner,11:55
+sagittarius,17-04-1995,Ashay,Gokal Pur ,11:15
+taurus,10-06-1963,Reena,Thanjavur ,3:13
+virgo,22-10-2000,Vineet,Agartala,8:33
+capricorn,30-03-1995,Achyut,Allahabad,5:21
+gemini,08-06-1998,Ardhendu,Karimnagar ,3:47
+libra,21-12-1981,Bishakha,Pelling,16:47
+aquarius,23-06-1978,Dhariyithri,Imphal,13:33
+cancer,11-08-1968,Rajani,Kishangarh ,23:53
+scorpio,31-12-1969,Kamal,Jalna ,1:27
+pisces,25-05-1999,Inika,Jhunjhunun ,16:38
+aries,11-07-1961,Deepika,Hardoi ,23:54
+leo,07-11-1977,Roopa,Jamuria ,17:35
+sagittarius,04-12-1949,Brinda,Bhubaneswar Town ,17:14
+taurus,11-10-1948,Hiba,Unnao ,1:49
+virgo,21-01-1946,Arup,Chikmagalur,23:53
+capricorn,16-11-1943,Haaris,Sonipat ,4:10
+gemini,29-02-1976,Datarpreet,Madurai,9:21
+libra,07-03-1957,Charu,Mira Bhayander ,20:3
+aquarius,06-06-1965,Azha,Rajahmundry,0:28
+cancer,24-10-1986,Rajat,Jaipur,21:21
+scorpio,27-10-1959,Meera,Bhimavaram ,22:40
+pisces,19-07-1951,Dinesh,Mangalore,6:52
+aries,02-08-1999,Diksha,Tirupati ,20:28
+leo,17-12-1975,Jahan,Tumkur ,15:32
+sagittarius,05-06-1943,Kajol,Bhiwani ,14:53
+taurus,28-10-1993,Arun,Hardwar ,9:30
+virgo,16-10-1960,Kaberi,Baranagar ,15:58
+capricorn,25-11-1966,Anshu,Ghandinagar,22:26
+gemini,16-03-1984,Pooja,Ghazipur ,2:21
+libra,16-12-1967,Sunil,Alwar,8:9
+aquarius,19-12-1978,Aakshi,Amritsar,17:51
+cancer,11-11-1984,Heena,Madavaram ,22:46
+scorpio,30-09-1989,Ayan,Akola ,13:13
+pisces,28-01-1991,Abhay,Srinagar ,20:44
+aries,02-04-1957,Hemant,Patna,10:56
+leo,20-03-1961,Baghyawati,Asansol,23:7
+sagittarius,04-09-1973,Latifah,Bekal,22:18
+taurus,07-12-1995,Henish,Thiruvananthapuram ,13:47
+virgo,17-07-1967,Indu,Raipur,0:34
+capricorn,17-11-1941,GangaRam,Baidyabati ,0:55
+gemini,18-09-1987,Kalpi,Thrissur ,8:44
+libra,18-05-1943,Daiwik,North Dum Dum ,23:40
+aquarius,09-09-1957,Karali,Jodhpur ,12:6
+cancer,07-11-1950,Aakanksha,Dzükou Valley,4:23
+scorpio,12-09-1949,Jalil,Osmanabad ,8:11
+pisces,11-04-1977,Ajaipal,Raichur ,21:5
+aries,13-09-1975,Shubham,Bhagalpur ,1:47
+leo,28-03-2001,Himanshu,Tirunelveli ,14:43
+sagittarius,29-06-1995,Garuda,Nalgonda ,23:48
+taurus,09-08-1950,Aakesh,Dindigul ,6:34
+virgo,25-06-1996,Hansika,Tiruchirappalli ,8:6
+capricorn,22-06-1943,Jagvi,Kodaikanal,10:21
+gemini,16-01-1987,Sunita,Ichalkaranji ,12:44
+libra,02-02-1950,Kasniya,Berhampur,2:48
+aquarius,15-05-1993,Gunbir,Ulhasnagar ,18:56
+cancer,08-11-1964,Chinmay,Nangloi Jat ,9:34
+scorpio,31-12-1945,Harsha,Kolar ,9:41
+pisces,04-07-1960,Chandra,Lucknow,14:46
+aries,14-04-1960,Antara,Ambala,15:44
+leo,04-07-1976,Haniya,Hassan ,20:8
+sagittarius,14-11-1994,Anchal,Almora,2:4
+taurus,07-01-1973,Ananya,Warangal,2:15
+virgo,05-05-1979,Husain,Vishakhapatnam,20:26
+capricorn,22-07-1974,Deepshikha,Etah ,9:9
+gemini,08-01-1966,Eshwaritha,Noida,11:58
+libra,24-11-1981,Devika,Pune,13:58
+aquarius,25-02-1984,Farah,Chilika,22:5
+cancer,21-01-1979,Gathika,Tezpur,13:29
+scorpio,30-03-1978,Divya,Siwan ,21:35
+pisces,09-01-1942,Anirudh,New Delhi,8:55
+aries,12-04-1967,Divyanshika,Pallavaram ,21:55
+leo,17-05-1977,Goswami,Moga ,18:16
+sagittarius,24-02-1987,Amrit,Dwarka,19:57
+taurus,16-05-1958,Debyendu,Moradabad ,1:22
+virgo,20-10-1949,Ishanvi,Varkala,22:35
+capricorn,27-06-1998,Akshay,Amroha ,21:56
+gemini,30-03-1987,Joy,Bidar,18:2
+libra,11-08-1971,Devbrat,Itanagar,7:43
+aquarius,26-09-1956,Dolly,Krishnanagar ,7:13
+cancer,28-10-1946,Jayanti,Dewas ,16:40
+scorpio,05-05-1972,Barkha,Haldwani-cum-Kathgodam ,21:14
+pisces,23-03-1998,Inderveer,Jalandhar ,1:15
+aries,11-10-1980,Devashish,Jaunpur ,8:33
+leo,31-03-1960,Bhuvan,Chandigarh ,20:36
+sagittarius,29-12-1953,Vinod,Greater Mumbai ,11:36
+taurus,13-05-1975,Lipika,Hisar,19:39
+virgo,09-08-1962,Siddharth,Ujjain,10:49
+capricorn,01-08-1953,Seema,Sambalpur,6:3
+gemini,06-08-1994,Namita,Mainpuri ,12:58
+libra,30-01-1958,Loshith,Hospet ,17:53
+aquarius,18-11-1941,Adweta,Raigarh ,11:29
+cancer,16-12-1963,Kripa,Chittaurgarh ,2:24
+scorpio,07-04-1992,Herik,Rajpur Sonarpur ,9:28
+pisces,20-10-1977,Suraj,Barshi ,3:17
+aries,07-02-1996,Kshitij,Bhubaneswar,6:40
+leo,24-08-1971,Aishwarya,Konark,17:48
+sagittarius,14-03-2001,Angad,Udgir ,8:18
+taurus,20-04-1998,Swati,Serampore ,0:40
+virgo,24-09-1979,Ayla,Kanpur City,19:0
+capricorn,14-02-1999,Ajay,Nalgonda,8:41
+gemini,03-04-1951,Keerat,Badlapur ,4:12
+libra,10-04-1959,Ishpreet,Kollam,15:43
+aquarius,08-10-1956,Ashish,Majuli,4:2
+cancer,11-04-1995,Anitha,Srinagar,5:27
+scorpio,07-09-1956,Kausar,Orai ,6:14
+pisces,26-09-2000,Nalini,Gorakhpur ,17:59
+aries,14-11-1943,Anya,Cooch Behar,4:26
+leo,25-06-1947,Kaushiki,Tadepalligudem ,9:59
+sagittarius,28-05-1976,Arti,Port Blair,20:53
+taurus,16-06-1991,Purnima,Greater Hyderabad ,6:3
+virgo,15-10-1982,Kulveer,Firozabad,4:57
+capricorn,10-03-1950,Devirupa,Hapur,2:13
+gemini,01-01-1964,Kalindi,Sonipat,22:0
+libra,16-01-1948,Debanjana,Kanpur,22:12
+aquarius,25-03-1957,Love,Guwahati,8:40
+cancer,24-03-1961,Aditya,Deoghar,13:13
+scorpio,10-04-2001,Chavvi,Alandur ,19:7
+pisces,01-11-1989,Chandran,Bhilwara,12:19
+aries,17-03-1947,Imara,Vadodara,18:59
+leo,27-08-1969,Acchutan,Rajkot ,15:40
+sagittarius,18-12-1946,Aayushi,Raiganj ,17:47
+taurus,01-03-1949,Galav,Nubra Valley,9:22
+virgo,01-09-1976,Kandarp,Hisar ,1:34
+capricorn,27-01-1985,Lusha,Surat,21:13
+gemini,28-05-1944,Tarun,Rajahmundry ,5:32
+libra,17-06-1975,Indrani,Kumbakonam ,2:26
+aquarius,10-12-1948,Advith,S.A.S. Nagar ,22:58
+cancer,11-07-1972,Harpreet,Ajmer,19:51
+scorpio,15-01-1954,Ghalib,Hosur ,15:33
+pisces,19-05-1993,Iskand,Saharanpur ,14:32
+aries,18-06-1966,Arihant,Kharagpur ,17:25
+leo,21-05-1951,Hiran,Wardha ,7:10
+sagittarius,29-12-1970,Gnaneswar,Halisahar ,10:16
+taurus,01-08-1963,Gurbachan,Nashik ,14:13
+virgo,29-06-1945,Kismet,Kochi ,20:17
+capricorn,19-03-1961,Amulya,Saidpur,21:55
+gemini,28-01-1946,Armoghan,Tiruppur ,20:12
+libra,10-08-1955,Gitanshu,Bhilai Nagar ,21:10
+aquarius,05-03-1971,Sharmila,Cuddalore,20:9
+cancer,31-07-1989,Jeevika,Mysore ,5:40
+scorpio,11-01-1986,Sheetal,Allahabad ,11:36
+pisces,02-07-1981,Jodha,Bellary ,4:36
+aries,06-08-1942,Sandeep,Mathura,22:0
+leo,26-06-1966,Dhruv,Khora ,8:9
+sagittarius,19-08-1949,Natasha,Bakshpur,8:13
+taurus,29-08-1990,Deepanshu,Patna ,10:9
+virgo,05-05-1989,Chandresh,Gondiya ,9:55
+capricorn,08-09-1975,Karmendra,Kalol ,4:46
+gemini,15-08-1956,Ganesh,Raichur,5:18
+libra,05-06-1993,Deep,Ujjain ,19:30
+aquarius,02-01-1989,Manisha,Roorkee ,14:21
+cancer,06-09-1959,Kashish,Bamanpuri,4:36
+scorpio,31-05-1995,Akshita,Mahbubnagar ,4:27
+pisces,05-03-1976,Havya,Kanpur ,21:41
+aries,16-07-1989,Apsara,Kavaratti,14:43
+leo,15-03-1947,Iqra,Jagadhri ,0:48
+sagittarius,11-02-1964,Aparsha,Tiruvannamalai,14:26
+taurus,10-01-1966,Elavarasi,Rohtak ,9:41
+virgo,24-07-1953,Abhinav,Lakhimpur ,15:50
+capricorn,05-05-1994,Aishwarya,Panaji,6:1
+gemini,02-09-1955,Aarti,Budaun,3:1
+libra,07-01-1956,Adarsh,Hapur ,23:2
+aquarius,20-07-1969,Kiranpreet,Hathras ,5:37
+cancer,02-02-1949,Annanya,Gaya,9:31
+scorpio,04-04-1971,Jigishu,Rajapalaiyam,14:15
+pisces,20-09-1945,Harini,Saharanpur,3:33
+aries,19-08-1977,Harbans,Allahabad,9:30
+leo,17-06-1950,Gurbani,Sultan Pur Majra ,1:49
+sagittarius,09-08-1980,Dheeraj,Munger ,6:58
+taurus,20-06-1987,Prashant,Bally ,3:8
+virgo,25-08-1955,Anika,Nagercoil,10:36
+capricorn,25-03-1985,Madhav,Bharatpur ,18:6
+gemini,07-11-1987,Elamathi,Hoshiarpur ,15:32
+libra,06-08-1971,Arman,Valsad ,9:1
+aquarius,13-07-2000,Debesh,Sehore ,17:52
+cancer,14-09-1995,Gopal,Raurkela Town ,5:32
+scorpio,31-12-1991,Kunal,Gwalior ,0:5
+pisces,24-02-1942,Rajan,Sultanpur ,7:40
+aries,30-03-1985,Eesha,Imphal ,2:21
+leo,12-03-1958,Alka,Neyveli ,15:4
+sagittarius,26-11-1975,Surendra,Dabgram ,11:20
+taurus,12-10-1955,Charulata,Suryapet ,4:22
+virgo,15-10-1974,Mala,Dimapur ,14:27
+capricorn,12-09-1981,Aahana,Kinnaur,6:34
+gemini,20-02-1958,Ishya,Bharauri,2:53
+libra,14-03-1957,Aayansh,Kolhapur ,2:59
+aquarius,08-03-1953,Lakshmika,Kanyakumari,21:50
+cancer,27-08-1950,Harshita,Bijapur ,23:44
+scorpio,19-09-1951,Anvit,Kumarakom,2:6
+pisces,17-06-2001,Ekaja,Chandigarh ,12:48
+aries,01-03-1948,Adhyantika,Srisailam,18:1
+leo,16-10-1995,Anusha,Jalpaiguri ,14:37
+sagittarius,01-01-1969,Kayalvizhi,Palanpur ,10:14
+taurus,21-08-1962,Abhigya,Santipur ,22:46
+virgo,05-04-1970,Amara,Sitapur ,16:32
+capricorn,13-03-1965,Parul,Medinipur ,8:42
+gemini,27-02-1959,Anjali,Kufri,19:28
+libra,07-03-1993,Archi,Deesa ,18:44
+aquarius,04-04-1987,Ravi,Bhagalpur,16:25
+cancer,17-04-1952,Dipa,Morvi ,9:38
+scorpio,04-08-1996,Kritagya,Dhaulpur ,11:7
+pisces,21-11-1971,Pramila,Khargone ,12:16
+aries,29-04-1953,Ganika,Aurangabad ,6:10
+leo,11-07-1964,Chaitali,Coimbatore ,13:37
+sagittarius,14-11-1985,Praveen,Proddatur ,17:55
+taurus,10-03-1983,Archita,Gurugram,15:36
+virgo,07-01-1966,Jahangeer,Shiliguri,2:35
+capricorn,23-06-1973,Gajdant,Silchar,12:38
+gemini,17-11-1991,Anupam,Shahjahanpur ,18:0
+libra,13-04-1992,Darshan,Ahmedabad,4:21
+aquarius,25-04-1993,Jasmine,Hyderabad,15:32
+cancer,15-09-1960,Aviral,Hubli-Dharwad ,4:15
+scorpio,16-07-1965,Hariharan,Ramagundam ,5:13
+pisces,23-08-1962,Chak,Gudivada ,8:39
